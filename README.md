@@ -1,6 +1,7 @@
 # Python_API
 
 - import requests
+- An application programming interface is a way for two or more computer programs to communicate with each other
 - practice APIs
 
 ## What is an API and how to use it with requests (python package)
